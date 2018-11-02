@@ -5,6 +5,7 @@ owner:
   hid: fa18-523-59
   community: i523
   semester: fa18
+  profile: https://github.com/jatinbhutka  
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/azure-sql.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/pybrain.md
