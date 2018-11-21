@@ -4,7 +4,8 @@ owner:
   lastname: Bhutka
   hid: fa18-523-59
   community: i523
-  profile: https://github.com/jatinbhutka  
+  profile: https://github.com/jatinbhutka
+  smester: fa18
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/azure-sql.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/pybrain.md
