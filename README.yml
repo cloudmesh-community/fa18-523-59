@@ -17,6 +17,7 @@ paper:
     group: fa18-523-71 fa18-523-59
 project:
   - title: Loan Defaulter Analysis
+    keyword: EDA, Classification, Credit, K-NN, Random Forest, PCA, XGBOOST
     url: https://github.com/cloudmesh-community/fa18-523-71/blob/master/project-report/report.md
     group: fa18-523-71 fa18-523-59
     code: https://github.com/cloudmesh-community/fa18-523-71/tree/master/project-code/code
