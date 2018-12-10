@@ -98,6 +98,8 @@ Week7: 1 Oct,2018 - 7 Oct,2018
 
  Week15: 3 Dec,2018 - 9 Dec,2018
 =================================
+* No lecture 
+  - Final Project submitted
 
 
  Week16: 10 Dec,2018 - 14 Dec,2018
